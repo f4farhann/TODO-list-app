@@ -1,5 +1,4 @@
 # TODO-list-app
-# Description
 This is a simple and intuitive TODO List application built using Kotlin, Coroutines, Jetpack Compose, MVVM Architecture and Room Database. The app allows users to add, view, and manage their tasks efficiently. It demonstrates the use of modern Android development tools and patterns, providing a clean and maintainable codebase.
 
 # Features
@@ -19,8 +18,14 @@ Coroutines: Simplifies background task management.
 Navigation Component: Manages navigation within the app.
 
 # Screenshots
-Include screenshots of your app here to give a visual overview.
-How to RunClone the repository: git clone https://github.com/f4farhann/TODO-list-app.
+![Home_Screen](https://github.com/user-attachments/assets/297186d0-da70-4676-8873-7cac89102838)
+![Detais_Screen](https://github.com/user-attachments/assets/0cdcbcbf-fd9d-4d5f-a7e6-41e384311545)
+![Add_Todo_Screen](https://github.com/user-attachments/assets/91250413-5b4e-482e-8607-cb0a36e30295)
+![Todo_Home_Screen](https://github.com/user-attachments/assets/27208a2b-601d-438b-a3ae-373fea03812b)
+![Search_Todo_Screen](https://github.com/user-attachments/assets/076fec03-5767-4890-b31b-f76212f8984d)
+
+# How to Run
+Clone the repository: git clone https://github.com/f4farhann/TODO-list-app.
 gitOpen the project in Android Studio.
 Build and run the app on an emulator or physical device.
 
