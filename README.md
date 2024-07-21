@@ -19,18 +19,9 @@ Navigation Component: Manages navigation within the app.<br>
 
 ## Screenshots
 
-<table>
-  <tr>
-    <td align="center"><img src="https://github.com/user-attachments/assets/297186d0-da70-4676-8873-7cac89102838" alt="Home Screen"></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/0cdcbcbf-fd9d-4d5f-a7e6-41e384311545" alt="Details Screen"></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/91250413-5b4e-482e-8607-cb0a36e30295" alt="Add Todo Screen"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://github.com/user-attachments/assets/27208a2b-601d-438b-a3ae-373fea03812b" alt="Todo Home Screen"></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/076fec03-5767-4890-b31b-f76212f8984d" alt="Search Todo Screen"></td>
-  </tr>
-</table>
-
+| Home Screen             | Details Screen             | Add Todo Screen             | Todo Home Screen             | Search Todo Screen             |
+| ----------------------- | -------------------------  | --------------------------- | ---------------------------- | ------------------------------ |
+| ![Home Screen](https://github.com/user-attachments/assets/297186d0-da70-4676-8873-7cac89102838) | ![Details Screen](https://github.com/user-attachments/assets/0cdcbcbf-fd9d-4d5f-a7e6-41e384311545) | ![Add Todo Screen](https://github.com/user-attachments/assets/91250413-5b4e-482e-8607-cb0a36e30295) |   ![Todo Home Screen](https://github.com/user-attachments/assets/27208a2b-601d-438b-a3ae-373fea03812b) | ![Search Todo Screen](https://github.com/user-attachments/assets/076fec03-5767-4890-b31b-f76212f8984d) |
 
 ## How to Run
 1. Clone the repository: git clone https://github.com/f4farhann/TODO-list-app.<br>
